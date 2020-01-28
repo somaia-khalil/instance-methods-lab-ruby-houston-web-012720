@@ -1,4 +1,4 @@
-class Dog 
+class Person
   
   def bark 
     puts "Woof"
